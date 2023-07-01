@@ -13,8 +13,6 @@ int main()
     
     else {
      cout << "float "<< IntNum << " "<< remainder ;
-    }
-        
-
+    }  
     return 0;
 }
